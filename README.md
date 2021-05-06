@@ -2,4 +2,6 @@
 
 Developed by using Html5, Css3, Js and Canvas
 
-Enjoy it!!! 
+Enjoy it here: 
+
+https://larissaandreapruiz.github.io/PingPongGame/
